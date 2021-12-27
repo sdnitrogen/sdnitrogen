@@ -52,10 +52,9 @@
 
 <br/>
 
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+### 🤝🏻 &nbsp;Connect with Me ###
 
-<p align="center">
 [![Twitter Badge](https://img.shields.io/badge/-@sdnitrogen-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/sdnitrogen)](https://twitter.com/sdnitrogen) [![Linkedin Badge](https://img.shields.io/badge/-sdnitrogen-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sdnitrogen/)](https://www.linkedin.com/in/sdnitrogen/) [![Gmail Badge](https://img.shields.io/badge/-sdatta27@asu.edu-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sdatta27@asu.edu)](mailto:sdatta27@asu.edu)
-</p>
+
 
 ⭐️ From [Saikat](https://github.com/sdnitrogen)
