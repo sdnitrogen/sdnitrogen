@@ -33,14 +33,14 @@
 - 🎮 &nbsp;<br>
   ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 - ⚙️ &nbsp;<br>
-  ![Git](https://img.shields.io/badge/-Git-F1502F?style=for-the-badge&logo=git)
+  ![Git](https://img.shields.io/badge/-Git-F1502F?style=for-the-badge&logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
   ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 - 🔧 &nbsp;<br>
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
   ![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 - 🖥 &nbsp;<br>
-  ![Illustrator](https://img.shields.io/badge/-Illustrator-FBB034?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
+  ![Illustrator](https://img.shields.io/badge/-Illustrator-FBB034?style=for-the-badge&logo=adobe-illustrator&logoColor=white&labelColor=white)
   ![Photoshop](https://img.shields.io/badge/-Photoshop-00A4E4?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
 
 <br/>
