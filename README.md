@@ -33,7 +33,7 @@
 - 🎮 &nbsp;
   ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 - ⚙️ &nbsp;
-- ![Git](https://img.shields.io/badge/-Git-333333?style=for-the-badge&logo=git)
+  ![Git](https://img.shields.io/badge/-Git-333333?style=for-the-badge&logo=git)
   ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
   ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 - 🔧 &nbsp;
@@ -52,9 +52,9 @@
 
 <br/>
 
-### 🤝🏻 &nbsp;Connect with Me ###
+### 🤝🏻 &nbsp;Connect with Me
 
-[![Twitter Badge](https://img.shields.io/badge/-@sdnitrogen-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/sdnitrogen)](https://twitter.com/sdnitrogen) [![Linkedin Badge](https://img.shields.io/badge/-sdnitrogen-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sdnitrogen/)](https://www.linkedin.com/in/sdnitrogen/) [![Gmail Badge](https://img.shields.io/badge/-sdatta27@asu.edu-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sdatta27@asu.edu)](mailto:sdatta27@asu.edu)
+[![Twitter Badge](https://img.shields.io/badge/-@sdnitrogen-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/sdnitrogen)](https://twitter.com/sdnitrogen) [![Linkedin Badge](https://img.shields.io/badge/-sdnitrogen-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sdnitrogen/)](https://www.linkedin.com/in/sdnitrogen/) [![Gmail Badge](https://img.shields.io/badge/-sdatta27@asu.edu-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:sdatta27@asu.edu)](mailto:sdatta27@asu.edu)
 
 
 ⭐️ From [Saikat](https://github.com/sdnitrogen)
