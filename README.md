@@ -40,7 +40,7 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
   ![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 - 🖥 &nbsp;<br>
-  ![Illustrator](https://img.shields.io/badge/-Illustrator-FBB034?style=for-the-badge&logo=adobe-illustrator&logoColor=white&labelColor=white)
+  ![Illustrator](https://img.shields.io/badge/-Illustrator-FBB034?style=for-the-badge&logo=adobe-illustrator&logoColor=black)
   ![Photoshop](https://img.shields.io/badge/-Photoshop-00A4E4?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
 
 <br/>
