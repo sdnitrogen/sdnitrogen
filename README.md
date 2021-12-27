@@ -15,7 +15,7 @@
   ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
   ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
   ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
-- 🌐 &nbsp; Web development<br>
+- 🌐 &nbsp; Web development<br><br>
   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -26,20 +26,20 @@
   ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
   ![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
   ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-- 🛢 &nbsp; Database<br>
+- 🛢 &nbsp; Database<br><br>
   ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
   ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-- 🎮 &nbsp; Game development<br>
+- 🎮 &nbsp; Game development<br><br>
   ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
-- ⚙️ &nbsp; Developer tools<br>
+- ⚙️ &nbsp; Developer tools<br><br>
   ![Git](https://img.shields.io/badge/-Git-F1502F?style=for-the-badge&logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
   ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-- 🔧 &nbsp; IDE<br>
+- 🔧 &nbsp; IDE<br><br>
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
   ![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-- 🖥 &nbsp; Design tools<br>
+- 🖥 &nbsp; Design tools<br><br>
   ![Illustrator](https://img.shields.io/badge/-Illustrator-FBB034?style=for-the-badge&logo=adobe-illustrator&logoColor=black)
   ![Photoshop](https://img.shields.io/badge/-Photoshop-00A4E4?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
 
