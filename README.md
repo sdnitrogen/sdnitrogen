@@ -54,7 +54,7 @@
 
 ### 🤝🏻 &nbsp;Connect with Me
 
-[![Twitter Badge](https://img.shields.io/badge/-@sdnitrogen-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/sdnitrogen)](https://twitter.com/sdnitrogen) [![Linkedin Badge](https://img.shields.io/badge/-sdnitrogen-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sdnitrogen/)](https://www.linkedin.com/in/sdnitrogen/) [![Gmail Badge](https://img.shields.io/badge/-sdatta27@asu.edu-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:sdatta27@asu.edu)](mailto:sdatta27@asu.edu)
+[![Twitter Badge](https://img.shields.io/badge/-@sdnitrogen-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/sdnitrogen)](https://twitter.com/sdnitrogen) [![Linkedin Badge](https://img.shields.io/badge/-sdnitrogen-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sdnitrogen/)](https://www.linkedin.com/in/sdnitrogen/) [![Gmail Badge](https://img.shields.io/badge/-sdatta27@asu.edu-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:sdatta27@asu.edu)](mailto:sdatta27@asu.edu)
 
 
 ⭐️ From [Saikat](https://github.com/sdnitrogen)
