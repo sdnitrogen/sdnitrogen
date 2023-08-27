@@ -3,8 +3,8 @@
 <h3> About Me </h3>
 
 - 🤔 &nbsp; Building websites, mobile apps and games...
-- 🎓 &nbsp; Studying Masters in Computer Science at Arizona State University.
-- 💼 &nbsp; Former Associate System Engineer (Mobile Application Dev) at IBM.
+- 🎓 &nbsp; Masters in Computer Science from Arizona State University.
+- 💼 &nbsp; Software Engineer at Rivian.
 - 🌱 &nbsp; Learning more about Blockchain technologies and Artificial Intelligence.
 - ✍️ &nbsp; Pursuing Graphic Design, Gaming and Cardistry as hobbies.
 
